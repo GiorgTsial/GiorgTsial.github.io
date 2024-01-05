@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://giorgtsial.github.io/al-folio/sitemap.xml
+Sitemap: https://giorgtsial.github.io/sitemap.xml

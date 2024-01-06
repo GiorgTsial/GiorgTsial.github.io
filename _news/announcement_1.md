@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Bike ride
+date: 2023-10-15
+inline: false
 related_posts: false
+image_1: /assets/img/caldera.jpg
 ---
 
-A simple inline announcement.
+It was a great weekend in Los Alamos. My supervisor took me on a day trip to [Valles Caldera](https://www.nps.gov/vall/index.htm), which is close to the town of Los Alamos, for a bike ride. It seemed to be very easy for him, but it was quite challenging for me. Nevertheless, I really enjoyed the day and had the opportunity to see the uncommon landscape of the volcano caldera.
+
+![]({{ page.image | relative_url}})

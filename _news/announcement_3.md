@@ -2,7 +2,7 @@
 layout: post
 title: Presentation for Amey Sheffield
 date: 2024-01-18
-inline: true
+inline: false
 related_posts: false
 ---
 

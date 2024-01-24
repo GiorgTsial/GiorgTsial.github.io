@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bike ride
-date: 2023-01-19
+title: New publication! Meta--learning for damage prognosis
+date: 2024-01-19
 inline: false
 related_posts: false
 ---
